@@ -1,0 +1,12 @@
+#the three lines below makes it so that all files without extensions are ignored 
+# i dont know how it works but it works
+
+*         
+!/**/       
+!*.*
+
+!Makefile
+#ignores all files with the .exe extension
+*.exe
+*/.vscode
+.vscode
