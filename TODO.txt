@@ -1,3 +1,7 @@
+TODO include other raylib modules in the project
+
+
+SIMULATIONS TO WRITE
 
 TODO write code to simulate simple pendulum 
 TODO write code to simulate double pendulum
